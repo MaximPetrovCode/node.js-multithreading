@@ -1,0 +1,11 @@
+{
+  "name": "Multithreading",
+  "version": "1.0.0",
+  "description": "Test multithreading using worker_threads module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --experimental-worker app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
